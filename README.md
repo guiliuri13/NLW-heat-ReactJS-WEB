@@ -6,7 +6,7 @@
 - Open your preferred terminal;
 - Select the path to the code;
 - Run ```npm install```;
-- After installation is complete, run ```npm start```.
+- After installation is complete, run ```npm run dev```.
 
 ## About the code
 
