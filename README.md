@@ -15,6 +15,7 @@ This is the web frontend of the **NLW heat 2021** project, carried out by _rocke
 ## Datasheet
 
 In this code we used: 
+- React;
 - Typescript/TSX;
 - Vite;
 - Socket.io;
